@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherAppKotlin</string>
+    <string name="some_button">Какая-то кнопка</string>
+</resources>
